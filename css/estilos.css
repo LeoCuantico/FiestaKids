@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|&display=swap');
+
+#title-font{
+    font-family: 'Dancing Script', cursive;
+}
+
+#nav_leo:hover{
+    background-color:#a3001e;
+    border-radius: 0.5rem;
+}
+
+#big_animate{
+    transition: 1s;
+}
+#big_animate:hover{
+    transform: scale(1.2);
+}
