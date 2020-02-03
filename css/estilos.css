@@ -1,7 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Dancing+Script|&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Courgette&display=swap');
 
 #title-font{
     font-family: 'Dancing Script', cursive;
+}
+
+#subtitle-font{
+    font-family: 'Courgette', cursive;
 }
 
 #nav_leo:hover{
@@ -9,9 +13,9 @@
     border-radius: 0.5rem;
 }
 
-#big_animate{
+.big_animate{
     transition: 1s;
 }
-#big_animate:hover{
+.big_animate:hover{
     transform: scale(1.2);
 }
